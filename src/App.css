@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+:root{
+
+  --dark-blue:#242B5A;
+
+}
+button{
+  border:0;
+}
+input {
+  font-family: inherit;
+  font-weight: bolder;
+  border:none;
+}
+input:focus{
+  outline:solid 1px;
+
+}
+
+button{
+  background-color: inherit;
+}
